@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Minkersmost
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning SFS mods
+- 💞️ I’m looking to make mods for myself, and maybe if i like the mod i'll publish it
